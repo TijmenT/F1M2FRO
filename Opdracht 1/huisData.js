@@ -104,7 +104,7 @@ const energieData = [
         tijd: Date.parse('10 Feb 2021 20:00'),
         tempBuiten: -4,
         tempBinnen: 17,
-        tempGewest: 19,
+        tempGewenst: 19,
         lichtKamer: true,
         lichtBuiten: true,
 
@@ -112,7 +112,7 @@ const energieData = [
         tijd: Date.parse('10 Feb 2021 20:30'),
         tempBuiten: -5,
         tempBinnen: 18,
-        tempGewest: 19,
+        tempGewenst: 19,
         lichtKamer: true,
         lichtBuiten: true,
 
@@ -120,7 +120,7 @@ const energieData = [
         tijd: Date.parse('10 Feb 2021 21:00'),
         tempBuiten: -5,
         tempBinnen: 19,
-        tempGewest: 19,
+        tempGewenst: 19,
         lichtKamer: true,
         lichtBuiten: true,
 
